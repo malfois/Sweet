@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<spockFile xmlns:ns2="xml">
+    <scan>
+        <directory>/storagebls/beamlines/bl11/controls/Marc/serverclient/spock</directory>
+        <name>scanFile</name>
+        <filter>
+            <description>Text</description>
+            <extension>*.txt</extension>
+        </filter>
+    </scan>
+    <results>
+        <directory>/storagebls/beamlines/bl11/controls/Marc/serverclient/spock</directory>
+        <name>results</name>
+        <filter>
+            <description>xml</description>
+            <extension>*.xml</extension>
+        </filter>
+    </results>
+</spockFile>

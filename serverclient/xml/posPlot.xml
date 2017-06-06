@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<plot-configuration xmlns:ns2="xml">
+    <image-file>
+        <directory>/homelocal/opbl11</directory>
+        <name>image</name>
+        <filter>
+            <description>JPG</description>
+            <extension>*.jpg</extension>
+        </filter>
+    </image-file>
+    <output-data-file>
+        <directory>/homelocal/opbl11</directory>
+        <name>data</name>
+        <filter>
+            <description>Ascii (Tab delimited)</description>
+            <extension>*.dat</extension>
+        </filter>
+    </output-data-file>
+    <renderer-file>
+        <directory>/storagebls/beamlines/bl11/controls/Marc/serverclient/xml</directory>
+        <name>posRenderer</name>
+        <filter>
+            <description>xml</description>
+            <extension>*.xml</extension>
+        </filter>
+    </renderer-file>
+    <graphic-scale> x - y </graphic-scale>
+</plot-configuration>

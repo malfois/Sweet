@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_121"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/utils"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/gui"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/data"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/beamline"/>
+	<classpathentry kind="lib" path="/storagebls/beamlines/bl11/controls/scans/scanFitServer_lib/org.eclipse.january.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

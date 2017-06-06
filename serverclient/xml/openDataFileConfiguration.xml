@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<FileConfiguration xmlns:ns2="xml">
+    <directory>/storagebls/beamlines/bl11/commissioning/2017/20170602</directory>
+    <name>filename</name>
+    <filter>
+        <description>Scan data</description>
+        <extension>*.dat</extension>
+    </filter>
+</FileConfiguration>

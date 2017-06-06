@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<result>
+    <scanID>8305</scanID>
+    <motor>bs1_z</motor>
+    <minVal>
+        <position>74.2144427023</position>
+        <value>3.49547E-8</value>
+    </minVal>
+    <maxVal>
+        <position>75.4144092715</position>
+        <value>3.50229E-8</value>
+    </maxVal>
+    <pos>
+        <position>75.38399435123247</position>
+        <fwhm>0.09376184518843045</fwhm>
+        <area>4.238543132324089E-12</area>
+        <offset>3.499116461180193E-8</offset>
+    </pos>
+    <edge>
+        <position>75.88245682702807</position>
+        <fwhm>0.8391793669626203</fwhm>
+        <area>-1.9936465640335714E-11</area>
+        <offset>7.496827035569697E-12</offset>
+    </edge>
+</result>

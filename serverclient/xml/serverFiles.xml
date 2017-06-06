@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Server xmlns:ns2="xml">
+    <serverConnection>
+        <directory>/storagebls/beamlines/bl11/controls/Marc/serverclient/xml</directory>
+        <name>communication</name>
+        <filter>
+            <description>xml</description>
+            <extension>*.xml</extension>
+        </filter>
+    </serverConnection>
+    <jreFile>
+        <directory>/homelocal/opbl11/Marc/java/jdk1.8.0_121/jre/bin</directory>
+        <name>java</name>
+        <filter>
+            <description>java</description>
+            <extension>*.</extension>
+        </filter>
+    </jreFile>
+    <jarFile>
+        <directory>/storagebls/beamlines/bl11/controls/scans</directory>
+        <name>scanFitServer</name>
+        <filter>
+            <description>jar</description>
+            <extension>*.jar</extension>
+        </filter>
+    </jarFile>
+</Server>
